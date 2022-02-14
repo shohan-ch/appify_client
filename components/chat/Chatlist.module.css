@@ -1,0 +1,22 @@
+.frndRequestRow{
+
+    margin-bottom: 25px;
+    border-bottom: 1px solid #bfbfbf8f;
+    padding: 10px 0;
+}
+
+.chatRow{
+    cursor: pointer;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #bfbfbf8f;
+    padding: 10px 0;
+}
+
+.tabIcon{
+    font-size: 21px;
+    color: red !important;
+}
+.userIcon{
+    font-size: 40px !important;
+    color: #787878;
+}

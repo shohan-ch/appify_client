@@ -1,0 +1,70 @@
+.anticon-delete {
+  color: #efe6e6 !important;
+  font-size: 15px !important;
+}
+
+.ant-upload-list {
+  position: absolute !important;
+  bottom: 120% !important;
+  right: -8px !important;
+  max-width: 200px !important;
+}
+
+.inputBox {
+  min-width: 328px !important;
+  max-width: 328px !important;
+  border-radius: 5px !important;
+  /* background-color: #d9d9d9; */
+  border-color: #006883 !important;
+}
+.inputBox:focus {
+  box-shadow: 0 0 7px 0px rgb(4 92 114 / 72%) !important;
+}
+
+.drawerDiv {
+  position: relative;
+}
+
+.senderDiv {
+  display: flex;
+  font-weight: 500;
+  color: white;
+  gap: 6px;
+  background-color: rgba(124, 8, 219, 1);
+  box-shadow: 0px 2px 4px rgba(124, 8, 219, 0.5);
+  padding: 5px 16px;
+  align-items: end;
+  justify-content: end;
+  border-radius: 10px;
+  max-width: 90%;
+  margin-bottom: 10px;
+}
+
+.receiverDiv {
+  display: flex;
+  font-weight: 500;
+  color: white;
+  gap: 6px;
+  justify-content: center;
+  align-items: end;
+  border-radius: 10px;
+  background-color: rgba(56, 155, 135, 1);
+  box-shadow: 0px 2px 4px rgba(56, 155, 135, 0.5);
+  padding: 5px 16px;
+  max-width: 88%;
+  margin-bottom: 15px;
+}
+
+.formBox {
+  position: absolute;
+  bottom: 0;
+  display: flex;
+  gap: 18px;
+  justify-content: start;
+  align-items: end;
+}
+.checkIcon {
+  max-width: 50px;
+  min-width: 30px;
+  height: 20px;
+}
